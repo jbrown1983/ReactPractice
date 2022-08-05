@@ -1,0 +1,21 @@
+Create React App 
+https://create-react-app.dev/
+
+Helps you create a react app gives basic code
+
+
+React Components are custom html elements 
+
+In React you build a Component Tree.
+You make a new page for every Component
+
+
+A Component in React is just a JavaScript Function
+
+Once you create a component you can use it like an html element. 
+
+One root element per return statement or JSX statement
+
+format document shift alt f 
+
+for CSS for a component you create a CSS file next to that compponent. 
